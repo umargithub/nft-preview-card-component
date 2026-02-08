@@ -26,6 +26,8 @@ A responsive card layout built using HTML and CSS, following the provided design
 
 ## Live Demo
 
+https://astonishing-moxie-ce3abd.netlify.app/
+
 ## Repository
 
 https://github.com/umargithub/nft-preview-card-component
